@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval"
+    >
+    xmlns:android=http://schemas.android.com/apk/res/android  android:shape="oval" >
+    //There are many other shapes also available they are rectangle,ring,line and oval
+    <solid android:color="#ffa"
+
+
+        /> //applying the colour to the button.
+    <stroke android:width="5dp"
+        android:color="#00664d"
+        />
+
+</shape>

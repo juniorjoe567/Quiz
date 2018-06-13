@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="name"> </string>
+    <string name="heading">Data Structures Quiz</string>
+    <string name="instruction"><b>1. Put a check in the most correct answer\n2. Each question carries 1 mark</b></string>
+    <!--We will use a checkbox here-->
+    <string name="qn1">Two main measures for the efficiency of an algorithm are: <i>(The 2 you choose <b>MUST</b> all be correct)</i></string>
+    <string name="ansQn1a">Memory</string>
+    <string name="ansQn1b">Complexity</string>
+    <string name="ansQn1c">Time</string>
+    <string name="ansQn1d">space</string>
+
+    <string name="qn2">Which of the following case does not exist in complexity theory?</string>
+    <string name="ansQn2a">Best case</string>
+    <string name="ansQn2b">Worst case</string>
+    <string name="ansQn2c">Average case</string>
+    <string name="ansQn2d">Null case</string>
+
+    <string name="qn3">The complexity of linear search algorithm is:</string>
+    <string name="ansQn3a">O(n)</string>
+    <string name="ansQn3b">O(log n)</string>
+    <string name="ansQn3c">O(n2)</string>
+    <string name="ansQn3d">O(n log n)</string>
+
+    <string name="qn4">The complexity of Binary search algorithm is:</string>
+    <string name="ansQn4a">O(n)</string>
+    <string name="ansQn4b">O(log n)</string>
+    <string name="ansQn4c">O(n2)</string>
+    <string name="ansQn4d">O(n log n)</string>
+
+
+    <string name="qn5">The complexity of Bubble sort algorithm is:</string>
+    <string name="ansQn5a">O(n)</string>
+    <string name="ansQn5b">O(log n)</string>
+    <string name="ansQn5c">O(n2)</string>
+    <string name="ansQn5d">O(n log n)</string>
+
+    <string name="qn6">Which of the following data structure is not linear data structure?</string>
+    <string name="ansQn6a">Arrays</string>
+    <string name="ansQn6b">Linked lists</string>
+    <string name="ansQn6c">Both of above</string>
+    <string name="ansQn6d">None of above</string>
+
+    <string name="qn7">Which of the following data structure is linear data structure?</string>
+    <string name="ansQn7a">Trees</string>
+    <string name="ansQn7b">Graphs</string>
+    <string name="ansQn7c">Arrays</string>
+    <string name="ansQn7d">None of above</string>
+
+    <string name="qn8">The following are classes of algorithms.(Choose two).<i>(The 2 you choose <b>MUST</b> all be correct)</i></string>
+    <string name="ansQn8a">Searching</string>
+    <string name="ansQn8b">Recursive</string>
+    <string name="ansQn8c">Iterative</string>
+    <string name="ansQn8d">Sorting</string>
+
+    <string name="qn9">In which traversal is the root node visited last?</string>
+
+    <string name="qn10">Finding the location of the element with a given value is:</string>
+    <string name="ansQn10a">Traversal</string>
+    <string name="ansQn10b">Search</string>
+    <string name="ansQn10c">Sort</string>
+    <string name="ansQn10d">None of above</string>
+
+    <!--Answers section-->
+    <string name="submit">I\'m Done</string>
+    <string name="repeat">Quit</string>
+    <string name="answers">Get Solutions</string>
+
+</resources>
