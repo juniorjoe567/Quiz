@@ -4,12 +4,10 @@
     android:dither="true"
     android:innerRadius="20dp"
     >
-    <solid android:color="#ffa"
+    <solid android:color="#ffE"
 
         />
     <corners
         android:radius="0dp"/>
-    <stroke android:dashWidth="0dp"
-        android:width="5dp"
-        android:color="#00664d"/>
+
 </shape>

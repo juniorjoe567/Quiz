@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Quiz</string>
+    <string name="app_name">Quiz App</string>
     <string name="name"> </string>
     <string name="heading">Data Structures Quiz</string>
     <string name="instruction"><b>1. Put a check in the most correct answer\n2. Each question carries 1 mark</b></string>
@@ -62,8 +62,9 @@
     <string name="ansQn10d">None of above</string>
 
     <!--Answers section-->
-    <string name="submit">I\'m Done</string>
-    <string name="repeat">Quit</string>
+    <string name="submit">Submit</string>
+    <string name="repeat">Restart</string>
     <string name="answers">Get Solutions</string>
+
 
 </resources>
